@@ -1,4 +1,6 @@
 # Smokers detection
+![enter image description here](https://github.com/archiducarmel/SmokersDetection/blob/master/output_file.gif)
+
 The aim of this repo is to detect smokers within videos frames without using action recognition techniques
 
 # Getting started
